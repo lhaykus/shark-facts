@@ -1,0 +1,85 @@
+body {
+    font-size: 120%;
+    font-family: sans-serif;
+}
+
+
+
+.navbar {
+    display: flex;
+    justify-content: flex-end;
+   
+   
+}
+
+.navbar a {
+    color:white;
+    font-weight: bold;
+    font-size: 150%;
+
+}
+
+/* creating gradiend effect on the links when hovered */
+.navbar a:hover {
+	background: linear-gradient(315deg, #fff000 0%, #ed008c 74%);
+	-webkit-background-clip: text;
+	-webkit-text-fill-color: transparent;
+}
+
+
+
+/*parallax imaging styling */
+
+#parallax-image1{
+    background-image: url('./assets/oceanwater2.jpg');
+    height: 1000px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#parallax-image2 {
+    background-image: url('./assets/shark2.jpg');
+    height: 1000px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#parallax-image3 {
+    background-image: url('./assets/mulitple-shark.jpg');
+    height: 1000px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#parallax-image4 {
+    background-image: url('./assets/whale-breaching.jpg');
+    height: 1000px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container h1 {
+    text-align: center;
+    font-size: 400%;
+}
+
+.container ul li{
+    padding: 3px;
+}
+
+.container img {
+    padding: 3px;
+}
+
+#organizations {
+    padding: 3px;
+    font-size: 120%;
+}
