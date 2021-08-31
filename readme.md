@@ -1,0 +1,1 @@
+This is a fun webpage I am working on to practice my styling skills. I love the ocean and this is a page dedicated to the knowledge of sharks and whales, and how to help protect them and the oceans
