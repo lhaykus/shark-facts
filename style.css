@@ -83,3 +83,20 @@ body {
     padding: 3px;
     font-size: 120%;
 }
+
+.container h3 {
+    font-weight: bold;
+    font-size: 200%;
+}
+
+.container p {
+    text-align: center;
+}
+
+ul li span a  {
+    color: rgb(33, 204, 204);
+}
+
+cite span a {
+    color: rgb(33, 204, 204);
+}
